@@ -104,13 +104,13 @@ a:hover {
     height: 100%;
   }
 
-.promo {
+/*.promo {
     display:flex;
     width: 70%;
     margin:100px auto;
     align-items: center;
 
-  }
+  }*/
 
 .fixed-header {
 position:fixed;
